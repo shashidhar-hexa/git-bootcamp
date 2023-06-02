@@ -1,3 +1,4 @@
 Hi team,
 
 Welcome to Devops training session
+Day-2

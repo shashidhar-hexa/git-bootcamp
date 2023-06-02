@@ -1,3 +1,4 @@
 Hello all,
 
 Welcome to Git and gitHub training
+Day-2
